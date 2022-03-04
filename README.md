@@ -8,5 +8,5 @@ You are also strongly advised to watch the repo (another button on the top-right
 
 Note : If you need help forking or syncing your fork with the main repository, you can follow [this procedure](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
 
-J'ai push un TD2.zip car j'avais une impossibilité de pousser les fichiers depuis mon ordinateurs malgrès un essaie avec Mr Vella.
+J'ai push un TD2.zip j'ai push aussi un TD2.rar avant en pensant que c'était un zip car j'avais une impossibilité de pousser les fichiers depuis mon ordinateurs malgrès un essaie avec Mr Vella.
 De ce fait j'ai du upload mes fichiers depuis github et non depuis les lignes de commande.
